@@ -2,9 +2,9 @@
 ppg血压算法的学习-PINN实验复现
 
 ## 引用自：
-#
+‘’‘
 Sel, K., Mohammadi, A., Pettigrew, R.I., Jafari, R. Physics-informed neural networks for modeling physiological time series for cuffless blood pressure estimation. npj Digit. Med. 6, 110 (2023). https://doi.org/10.1038/s41746-023-00853-4
-#
+’‘’
 
 #
 @article{sel2023physics,
